@@ -107,4 +107,6 @@ This logistics performance dashboard provides a comprehensive overview of shippi
 - Provide support and training for timely shipments.
 
 ## DashBoard 
+[Dashboard images](https://github.com/Clacksanalysis/Transport-and-Logistics-Analysis-/blob/a648199483cff294c3dc1a2877d561160acf258e/Transport%20and%20Logistic%20Dashboard.pdf)
 
+[power Bi file](https://github.com/Clacksanalysis/Transport-and-Logistics-Analysis-/blob/a648199483cff294c3dc1a2877d561160acf258e/transport.pbix)
